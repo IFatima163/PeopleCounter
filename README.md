@@ -1,4 +1,14 @@
-This folder holds a simple html, css, js using project to calculate an increment and visualize that change in real time.
+# People Counter
+A simple web counter to calculate footfall
 
-* followed YT tutorial
-*link to tutorial could not be found :(
+## Features
+- Increment and decrement buttons and number
+- Landing visual
+
+## Tech Stack
+- **Frontend:** HTML, CSS
+- **Backend:** Javascript
+
+## Development Notes
+- Configured Git repository & basic setup
+- Implemented core functionality
