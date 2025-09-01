@@ -1,0 +1,36 @@
+#general
+{
+	text-align: center;
+	padding: 50px 0px 0px 0px;
+	color:#008B8B;
+	font-family: monospace;
+	font-weight: bold;
+	background:linear-gradient(0deg, rgba( 127,255,212, 0.3), rgba( 127,255,212, 0.3)), url(img.png);
+	background-size: cover;
+}
+
+#counter
+{
+	border: 2px solid black;
+	padding: 40px 0px 40px 0px;
+	margin: 0px 520px 0px 520px;
+	text-align: center;
+	background-color: rgba( 255,248,220, 0.4);
+	border-color: #008B8B;
+}
+
+#increment-btn
+{
+	background-color: #008B8B;
+	padding: 20px 20px 20px 20px;
+	border-color: #008B8B;
+	border-radius: 60%;
+}
+
+#save-btn
+{
+	background-color: #90EE90;
+	padding: 20px 20px 20px 20px;
+	border-color: #90EE90;
+	border-radius: 60%;
+}
